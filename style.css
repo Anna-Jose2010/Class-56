@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: cornsilk;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#head {
+    color: crimson;
+    font-family: cursive;
+    font-size: 40px;
+}
